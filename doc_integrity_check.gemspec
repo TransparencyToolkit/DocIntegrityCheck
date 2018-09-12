@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'doc_integrity_check'
-  s.version     = '0.0.2'
-  s.date        = '2018-02-25'
+  s.version     = '0.0.3'
+  s.date        = '2018-09-12'
   s.summary     = 'Checks the integrity of files'
   s.description = 'Encrypts, verifies, and checks hashes of files'
   s.authors     = ['M. C. McGrath']

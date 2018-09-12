@@ -10,7 +10,7 @@ require "doc_integrity_check"
 include DocIntegrityCheck
 
 Available Methods-
-encrypt_data(file, recipient_key_id)
+encrypt_data(file, recipient_key_id, signer_key_id)
 decrypt(data_string)
 hash(file)
 hash_verified?(file_details)
